@@ -1,0 +1,10 @@
+langchain
+openai==0.28.0
+PyPDF2
+faiss-cpu
+tiktoken
+unstructured
+unstructured==0.5.6
+unstructured[local-inference]
+sentence-transformers
+chromadb
